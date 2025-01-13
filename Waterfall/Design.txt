@@ -1,3 +1,2 @@
 SRS is the reference of the product architects to
 come out with the best architecture for
-the product to be developed.

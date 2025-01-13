@@ -1,3 +1,2 @@
 Requirement analysis is most important and fundamental
 stage in SDLC. It is performed by the senior members of the
-with inputs from the customers.
