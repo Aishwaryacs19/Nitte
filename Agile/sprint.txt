@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 it is a time frame 
 to design a team 
+=======
+it is a time frame
+to design a teamwork
+>>>>>>> lineramodel
